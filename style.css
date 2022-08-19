@@ -1,0 +1,19 @@
+input, textarea{
+    display: block;
+    border: 2px solid black;
+    border-radius: 6px;
+    outline: none;
+    font-size: 16px;
+    width: 80%;
+    margin: 8px 0px;
+    padding: 7px;
+}
+.btn{
+    color: white;
+    background: rgb(76, 42, 190);
+    padding: 8px 12px;
+    font-size: 20px;
+    border: 2px solid white;
+    border-radius: 14px;
+    cursor: pointer;
+}
